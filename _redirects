@@ -1,0 +1,5 @@
+/*    /index.html   200
+/*.html  /:splat.html   200!
+  Cache-Control: no-store, must-revalidate
+  Pragma: no-cache
+  Expires: 0
